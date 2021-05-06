@@ -21,4 +21,4 @@ const suuu = {
 
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
-[![Suhara's GitHub stats](https://github-readme-stats.vercel.app/api?username=suharaaa&count_private=true&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Suhara's GitHub stats](https://github-readme-stats.vercel.app/api?username=suharaaa&count_private=true&show_icons=true&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
