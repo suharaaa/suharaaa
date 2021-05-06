@@ -1,6 +1,6 @@
 <h2> Hii, I'm Suhara! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
-
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
 [![Twitter: suharaaaa](https://img.shields.io/twitter/follow/suharaaaa?style=social)](https://twitter.com/suharaaaa)
 [![Linkedin: suhara](https://img.shields.io/badge/-SuharaVithanage-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/suhara-vithanage-053129173/)](https://www.linkedin.com/in/suhara-vithanage-053129173/)
@@ -18,8 +18,6 @@ const suuu = {
   databases: [MongoDB, MySQL, SQL]
 }
 ```
-
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
 [![Suhara's GitHub stats](https://github-readme-stats.vercel.app/api?username=suharaaa&count_private=true&show_icons=true&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
 
