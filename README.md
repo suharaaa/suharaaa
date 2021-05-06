@@ -19,3 +19,5 @@ const suuu = {
   databases: [MongoDB, MySQL, SQL]
 }
 ```
+
+[![Suhara's GitHub stats](https://github-readme-stats.vercel.app/api?username=suharaaa&count_private=true&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
