@@ -19,5 +19,7 @@ const suuu = {
 }
 ```
 
-[![Suhara's GitHub stats](https://github-readme-stats.vercel.app/api?username=suharaaa&count_private=true&show_icons=true&theme=monokai)](https://github.com/anuraghazra/github-readme-stats) &nbsp; &nbsp; &nbsp; &nbsp;
+[![Suhara's GitHub stats](https://github-readme-stats.vercel.app/api?username=suharaaa&count_private=true&show_icons=true&theme=monokai)](https://github.com/anuraghazra/github-readme-stats) 
+<div align='right'>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suharaaa&count_private=true&show_icons=true&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
+</div>
