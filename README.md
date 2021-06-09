@@ -14,7 +14,7 @@
 const suuu = {
   pronouns: "she" | "her",
   code: [Javascript, Typescript, HTML, CSS, C, C++, Python, Java],
-  tools: [Angular, Node, Android, React, Styled-Components, Docker],
+  tools: [Angular, Node, React, Express, Unix, Android, Docker],
   databases: [MongoDB, MySQL, SQL]
 }
 ```
